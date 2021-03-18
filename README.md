@@ -1,3 +1,3 @@
 ## Git Practice Repo 
 
-Practice repo for Unit 0
+Git practice repo for Unit 0
